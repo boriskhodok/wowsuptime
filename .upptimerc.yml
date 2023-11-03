@@ -84,8 +84,8 @@ sites:
     url: https://friends.wowsgame.cn/en/about
   - name: warehouse.wowsgame.cn
     url: https://warehouse.wowsgame.cn
-  - name: shop.wowsgame.cn
-    url: https://shop.wowsgame.cn
+  - name: shop.wows.360.cn
+    url: https://shop.wows.360.cn
     headers:
       - "User-Agent: Safari/537.36 WOWS/1.0"       
 
