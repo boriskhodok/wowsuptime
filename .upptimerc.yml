@@ -67,7 +67,27 @@ sites:
     url: https://shop.worldofwarships.asia/
     headers:
       - "User-Agent: Safari/537.36 WOWS/1.0"   
-      
+    # china
+  - name: wowsgame.cn
+    url: https://wowsgame.cn
+  - name: clans.wowsgame.cn
+    url: https://clans.wowsgame.cn
+  - name: armory.wowsgame.cn
+    url: https://armory.wowsgame.cn
+  - name: dockyard.wowsgame.cn
+    url: https://dockyard.wowsgame.cn
+  # - name: forum.worldofwarships.asia
+  #  url: https://forum.worldofwarships.asia
+  - name: logbook.wowsgame.cn
+    url: https://logbook.wowsgame.cn
+  - name: friends.wowsgame.cn
+    url: https://friends.wowsgame.cn/en/about
+  - name: warehouse.wowsgame.cn
+    url: https://warehouse.wowsgame.cn
+  - name: shop.wowsgame.cn
+    url: https://shop.wowsgame.cn
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"       
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
