@@ -473,18 +473,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clans.wowsgame.cn.ico",
     "slug": "clans-wowsgame-cn",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.32%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 2678,
     "timeDay": 2978,
     "timeWeek": 2678,
     "timeMonth": 2678,
     "timeYear": 2678,
     "dailyMinutesDown": {
-      "2023-11-04": 3
+      "2023-11-04": 10
     }
   },
   {
@@ -512,19 +512,19 @@
     "url": "https://dockyard.wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/dockyard.wowsgame.cn.ico",
     "slug": "dockyard-wowsgame-cn",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1525,
-    "timeDay": 1846,
-    "timeWeek": 1525,
-    "timeMonth": 1525,
-    "timeYear": 1525,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 3317,
+    "timeDay": 5323,
+    "timeWeek": 3317,
+    "timeMonth": 3317,
+    "timeYear": 3317,
     "dailyMinutesDown": {
-      "2023-11-04": 1
+      "2023-11-04": 7
     }
   },
   {
@@ -551,11 +551,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/friends.wowsgame.cn.ico",
     "slug": "friends-wowsgame-cn",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "98.92%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 3278,
     "timeDay": 5344,
     "timeWeek": 3278,
@@ -589,18 +589,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.wows.360.cn.ico",
     "slug": "shop-wows-360-cn",
     "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
+    "uptime": "98.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 1978,
     "timeDay": 1998,
     "timeWeek": 1978,
     "timeMonth": 1978,
     "timeYear": 1978,
     "dailyMinutesDown": {
-      "2023-11-04": 23
+      "2023-11-04": 15
     }
   }
 ]
