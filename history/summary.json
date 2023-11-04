@@ -580,19 +580,19 @@
     "url": "https://shop.wows.360.cn",
     "icon": "https://icons.duckduckgo.com/ip3/shop.wows.360.cn.ico",
     "slug": "shop-wows-360-cn",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2001,
-    "timeDay": 2001,
-    "timeWeek": 2001,
-    "timeMonth": 2001,
-    "timeYear": 2001,
+    "status": "up",
+    "uptime": "98.37%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
+    "time": 2069,
+    "timeDay": 2069,
+    "timeWeek": 2069,
+    "timeMonth": 2069,
+    "timeYear": 2069,
     "dailyMinutesDown": {
-      "2023-11-04": 0
+      "2023-11-04": 15
     }
   }
 ]
