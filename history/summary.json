@@ -312,19 +312,19 @@
     "url": "https://worldofwarships.asia",
     "icon": "https://icons.duckduckgo.com/ip3/worldofwarships.asia.ico",
     "slug": "worldofwarships-asia",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1287,
-    "timeDay": 1613,
-    "timeWeek": 1287,
-    "timeMonth": 1287,
-    "timeYear": 1287,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1284,
+    "timeDay": 1491,
+    "timeWeek": 1284,
+    "timeMonth": 1284,
+    "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-11-08": 1
+      "2023-11-08": 8
     }
   },
   {
@@ -351,18 +351,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/armory.worldofwarships.asia.ico",
     "slug": "armory-worldofwarships-asia",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.44%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 2888,
     "timeDay": 2209,
     "timeWeek": 2888,
     "timeMonth": 2888,
     "timeYear": 2888,
     "dailyMinutesDown": {
-      "2023-11-08": 36
+      "2023-11-08": 44
     }
   },
   {
