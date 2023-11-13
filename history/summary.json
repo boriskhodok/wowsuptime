@@ -370,19 +370,19 @@
     "url": "https://dockyard.worldofwarships.asia",
     "icon": "https://icons.duckduckgo.com/ip3/dockyard.worldofwarships.asia.ico",
     "slug": "dockyard-worldofwarships-asia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1106,
-    "timeDay": 897,
-    "timeWeek": 964,
-    "timeMonth": 1106,
-    "timeYear": 1106,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1090,
+    "timeDay": 875,
+    "timeWeek": 950,
+    "timeMonth": 1090,
+    "timeYear": 1090,
     "dailyMinutesDown": {
-      "2023-11-13": 1
+      "2023-11-13": 10
     }
   },
   {
