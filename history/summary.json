@@ -136,19 +136,19 @@
     "url": "https://shop.worldofwarships.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.worldofwarships.eu.ico",
     "slug": "shop-worldofwarships-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 690,
-    "timeWeek": 655,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 649,
+    "timeDay": 748,
+    "timeWeek": 678,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2023-11-23": 1
+      "2023-11-23": 10
     }
   },
   {
