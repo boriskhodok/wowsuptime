@@ -13,7 +13,7 @@
     "time": 783,
     "timeDay": 911,
     "timeWeek": 710,
-    "timeMonth": 780,
+    "timeMonth": 758,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-11-20": 45
@@ -108,7 +108,7 @@
     "time": 739,
     "timeDay": 794,
     "timeWeek": 658,
-    "timeMonth": 741,
+    "timeMonth": 707,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2023-11-20": 26
@@ -471,10 +471,10 @@
     "url": "https://wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/wowsgame.cn.ico",
     "slug": "wowsgame-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 2362,
@@ -483,6 +483,7 @@
     "timeMonth": 2888,
     "timeYear": 2362,
     "dailyMinutesDown": {
+      "2023-12-20": 2,
       "2023-12-14": 26
     }
   },
@@ -554,19 +555,19 @@
     "url": "https://dockyard.wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/dockyard.wowsgame.cn.ico",
     "slug": "dockyard-wowsgame-cn",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
     "time": 2125,
     "timeDay": 1245,
     "timeWeek": 3225,
     "timeMonth": 2360,
     "timeYear": 2125,
     "dailyMinutesDown": {
-      "2023-12-20": 12,
+      "2023-12-20": 1,
       "2023-12-18": 33,
       "2023-12-04": 16
     }
@@ -616,18 +617,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.wowsgame.cn.ico",
     "slug": "warehouse-wowsgame-cn",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1524,
     "timeDay": 901,
     "timeWeek": 2493,
     "timeMonth": 1690,
     "timeYear": 1524,
     "dailyMinutesDown": {
-      "2023-12-20": 12,
       "2023-12-18": 16
     }
   },
