@@ -646,9 +646,9 @@
     "url": "https://shop.wows.360.cn",
     "icon": "https://icons.duckduckgo.com/ip3/shop.wows.360.cn.ico",
     "slug": "shop-wows-360-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -658,6 +658,7 @@
     "timeMonth": 3045,
     "timeYear": 3078,
     "dailyMinutesDown": {
+      "2023-12-28": 0,
       "2023-12-20": 21,
       "2023-11-19": 22,
       "2023-11-04": 15
