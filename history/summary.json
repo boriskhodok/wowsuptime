@@ -158,7 +158,7 @@
     "timeMonth": 594,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2024-08-07": 1157,
+      "2024-08-07": 1165,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -561,7 +561,7 @@
     "timeMonth": 226,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2024-08-07": 1157,
+      "2024-08-07": 1166,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -843,9 +843,9 @@
     "slug": "armory-worldofwarships-asia",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.50%",
     "time": 3028,
     "timeDay": 1916,
@@ -853,7 +853,7 @@
     "timeMonth": 3048,
     "timeYear": 3028,
     "dailyMinutesDown": {
-      "2024-08-07": 1,
+      "2024-08-07": 9,
       "2024-07-17": 74,
       "2024-07-11": 17,
       "2024-07-10": 191,
@@ -901,19 +901,19 @@
     "url": "https://logbook.worldofwarships.asia",
     "icon": "https://icons.duckduckgo.com/ip3/logbook.worldofwarships.asia.ico",
     "slug": "logbook-worldofwarships-asia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 697,
-    "timeWeek": 880,
-    "timeMonth": 852,
-    "timeYear": 831,
+    "time": 830,
+    "timeDay": 698,
+    "timeWeek": 858,
+    "timeMonth": 847,
+    "timeYear": 830,
     "dailyMinutesDown": {
-      "2024-08-07": 1
+      "2024-08-07": 8
     }
   },
   {
@@ -953,7 +953,7 @@
     "timeMonth": 811,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-08-07": 1157,
+      "2024-08-07": 1166,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -1448,7 +1448,7 @@
     "timeMonth": 1121,
     "timeYear": 1195,
     "dailyMinutesDown": {
-      "2024-08-07": 1157,
+      "2024-08-07": 1166,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
