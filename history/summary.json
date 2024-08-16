@@ -159,7 +159,7 @@
     "timeMonth": 591,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2024-08-16": 702,
+      "2024-08-16": 720,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -481,9 +481,9 @@
     "slug": "blog-worldofwarships-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 659,
     "timeDay": 616,
@@ -491,7 +491,6 @@
     "timeMonth": 679,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-08-16": 8,
       "2024-03-28": 134
     }
   },
@@ -572,7 +571,7 @@
     "timeMonth": 244,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2024-08-16": 703,
+      "2024-08-16": 720,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -971,7 +970,7 @@
     "timeMonth": 864,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2024-08-16": 703,
+      "2024-08-16": 721,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -1247,19 +1246,19 @@
     "url": "https://clans.wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/clans.wowsgame.cn.ico",
     "slug": "clans-wowsgame-cn",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "95.48%",
+    "uptimeYear": "99.33%",
     "time": 3138,
     "timeDay": 2701,
     "timeWeek": 3443,
     "timeMonth": 3051,
     "timeYear": 3138,
     "dailyMinutesDown": {
-      "2024-08-16": 35,
+      "2024-08-16": 36,
       "2024-08-15": 19,
       "2024-08-14": 97,
       "2024-08-13": 44,
@@ -1309,8 +1308,7 @@
       "2024-05-24": 49,
       "2024-05-23": 127,
       "2024-05-22": 15,
-      "2024-05-21": 15,
-      "2024-05-20": 16
+      "2024-05-21": 15
     }
   },
   {
@@ -1472,7 +1470,7 @@
     "timeMonth": 1111,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2024-08-16": 703,
+      "2024-08-16": 721,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
