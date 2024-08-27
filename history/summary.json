@@ -159,7 +159,7 @@
     "timeMonth": 549,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-08-27": 754,
+      "2024-08-27": 813,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 254,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-08-27": 754,
+      "2024-08-27": 814,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -982,18 +982,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.worldofwarships.asia.ico",
     "slug": "warehouse-worldofwarships-asia",
     "status": "down",
-    "uptime": "22.95%",
+    "uptime": "22.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.95%",
+    "uptimeYear": "22.94%",
     "time": 825,
     "timeDay": 683,
     "timeWeek": 895,
     "timeMonth": 878,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2024-08-27": 754,
+      "2024-08-27": 814,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -1281,9 +1281,9 @@
     "url": "https://clans.wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/clans.wowsgame.cn.ico",
     "slug": "clans-wowsgame-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "94.02%",
+    "uptimeDay": "93.97%",
     "uptimeWeek": "94.68%",
     "uptimeMonth": "94.78%",
     "uptimeYear": "99.32%",
@@ -1293,7 +1293,7 @@
     "timeMonth": 3220,
     "timeYear": 3163,
     "dailyMinutesDown": {
-      "2024-08-27": 71,
+      "2024-08-27": 72,
       "2024-08-26": 82,
       "2024-08-25": 96,
       "2024-08-24": 73,
@@ -1333,8 +1333,7 @@
       "2024-07-17": 22,
       "2024-07-16": 71,
       "2024-07-15": 19,
-      "2024-07-14": 21,
-      "2024-07-13": 18
+      "2024-07-14": 21
     }
   },
   {
@@ -1501,7 +1500,7 @@
     "timeMonth": 1145,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2024-08-27": 754,
+      "2024-08-27": 814,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
