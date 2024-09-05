@@ -1,7 +1,7 @@
 url: https://armory.wowsgame.cn
-status: up
-code: 200
-responseTime: 3807
-lastUpdated: 2024-09-04T23:22:31.338Z
+status: down
+code: 503
+responseTime: 1215
+lastUpdated: 2024-09-05T19:06:53.443Z
 startTime: 2023-11-03T10:43:44.076Z
 generator: Upptime <https://github.com/upptime/upptime>
