@@ -107,19 +107,19 @@
     "url": "https://logbook.worldofwarships.eu",
     "icon": "https://icons.duckduckgo.com/ip3/logbook.worldofwarships.eu.ico",
     "slug": "logbook-worldofwarships-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 573,
-    "timeDay": 449,
-    "timeWeek": 523,
-    "timeMonth": 489,
+    "timeDay": 525,
+    "timeWeek": 540,
+    "timeMonth": 495,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2024-09-12": 1,
+      "2024-09-12": 22,
       "2024-03-28": 136
     }
   },
@@ -161,7 +161,7 @@
     "timeMonth": 528,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-09-12": 612,
+      "2024-09-12": 633,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -603,7 +603,7 @@
     "timeMonth": 256,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-09-12": 612,
+      "2024-09-12": 634,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -1031,7 +1031,7 @@
     "timeMonth": 927,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2024-09-12": 612,
+      "2024-09-12": 634,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -1560,7 +1560,7 @@
     "timeMonth": 1210,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2024-09-12": 612,
+      "2024-09-12": 634,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
