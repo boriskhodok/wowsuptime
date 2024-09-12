@@ -1,7 +1,7 @@
 url: https://logbook.worldofwarships.eu
-status: up
-code: 200
-responseTime: 550
-lastUpdated: 2024-09-11T23:20:36.600Z
+status: down
+code: 503
+responseTime: 348
+lastUpdated: 2024-09-12T10:10:55.546Z
 startTime: 2023-11-03T09:48:24.649Z
 generator: Upptime <https://github.com/upptime/upptime>
