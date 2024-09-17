@@ -161,7 +161,7 @@
     "timeMonth": 540,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2024-09-17": 291,
+      "2024-09-17": 321,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -608,7 +608,7 @@
     "timeMonth": 268,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-09-17": 291,
+      "2024-09-17": 321,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -1043,7 +1043,7 @@
     "timeMonth": 923,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2024-09-17": 292,
+      "2024-09-17": 321,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -1354,10 +1354,10 @@
     "url": "https://clans.wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/clans.wowsgame.cn.ico",
     "slug": "clans-wowsgame-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.45%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "96.52%",
     "uptimeMonth": "95.89%",
     "uptimeYear": "99.44%",
     "time": 3264,
@@ -1366,6 +1366,7 @@
     "timeMonth": 3725,
     "timeYear": 3264,
     "dailyMinutesDown": {
+      "2024-09-17": 1,
       "2024-09-16": 87,
       "2024-09-15": 16,
       "2024-09-13": 88,
@@ -1406,7 +1407,7 @@
       "2024-08-07": 113,
       "2024-08-06": 64,
       "2024-08-05": 65,
-      "2024-08-04": 19
+      "2024-08-04": 2
     }
   },
   {
@@ -1416,9 +1417,9 @@
     "slug": "armory-wowsgame-cn",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "97.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "98.84%",
     "time": 3902,
     "timeDay": 3006,
@@ -1426,7 +1427,6 @@
     "timeMonth": 4136,
     "timeYear": 3902,
     "dailyMinutesDown": {
-      "2024-09-17": 7,
       "2024-09-05": 154,
       "2024-09-04": 34,
       "2024-08-31": 18,
@@ -1581,7 +1581,7 @@
     "timeMonth": 1255,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2024-09-17": 292,
+      "2024-09-17": 321,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
