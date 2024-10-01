@@ -150,18 +150,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.worldofwarships.eu.ico",
     "slug": "warehouse-worldofwarships-eu",
     "status": "down",
-    "uptime": "20.65%",
+    "uptime": "20.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.65%",
+    "uptimeYear": "20.64%",
     "time": 561,
     "timeDay": 394,
     "timeWeek": 634,
     "timeMonth": 560,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-10-01": 95,
+      "2024-10-01": 257,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -622,7 +622,7 @@
     "timeMonth": 269,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-10-01": 95,
+      "2024-10-01": 257,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -1071,7 +1071,7 @@
     "timeMonth": 900,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2024-10-01": 96,
+      "2024-10-01": 257,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -1398,11 +1398,11 @@
     "url": "https://clans.wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/clans.wowsgame.cn.ico",
     "slug": "clans-wowsgame-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "97.29%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "99.48%",
     "time": 3261,
     "timeDay": 2926,
@@ -1410,6 +1410,7 @@
     "timeMonth": 3707,
     "timeYear": 3261,
     "dailyMinutesDown": {
+      "2024-10-01": 1,
       "2024-09-30": 18,
       "2024-09-29": 33,
       "2024-09-28": 36,
@@ -1452,8 +1453,7 @@
       "2024-08-15": 19,
       "2024-08-14": 97,
       "2024-08-13": 44,
-      "2024-08-12": 98,
-      "2024-08-11": 16
+      "2024-08-12": 98
     }
   },
   {
@@ -1636,7 +1636,7 @@
     "timeMonth": 1288,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2024-10-01": 96,
+      "2024-10-01": 257,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
