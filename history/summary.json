@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.worldofwarships.eu.ico",
     "slug": "warehouse-worldofwarships-eu",
     "status": "down",
-    "uptime": "19.92%",
+    "uptime": "19.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.92%",
+    "uptimeYear": "19.91%",
     "time": 562,
     "timeDay": 878,
     "timeWeek": 630,
     "timeMonth": 575,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2024-10-13": 436,
+      "2024-10-13": 476,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -636,7 +636,7 @@
     "timeMonth": 282,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-10-13": 436,
+      "2024-10-13": 476,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -1098,7 +1098,7 @@
     "timeMonth": 844,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2024-10-13": 436,
+      "2024-10-13": 476,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -1437,10 +1437,10 @@
     "url": "https://clans.wowsgame.cn",
     "icon": "https://icons.duckduckgo.com/ip3/clans.wowsgame.cn.ico",
     "slug": "clans-wowsgame-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.97%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.51%",
     "time": 3257,
@@ -1449,7 +1449,7 @@
     "timeMonth": 3322,
     "timeYear": 3257,
     "dailyMinutesDown": {
-      "2024-10-13": 16,
+      "2024-10-13": 17,
       "2024-10-12": 16,
       "2024-10-11": 16,
       "2024-10-10": 16,
@@ -1495,7 +1495,7 @@
       "2024-08-22": 88,
       "2024-08-21": 24,
       "2024-08-20": 135,
-      "2024-08-19": 56
+      "2024-08-19": 34
     }
   },
   {
@@ -1680,7 +1680,7 @@
     "timeMonth": 1246,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2024-10-13": 437,
+      "2024-10-13": 476,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
